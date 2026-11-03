@@ -1,0 +1,9 @@
+f:\项目\EX\InfiniteAmmo\bin\Release\net48\InfiniteAmmo.dll
+f:\项目\EX\InfiniteAmmo\bin\Release\net48\InfiniteAmmo.pdb
+f:\项目\EX\InfiniteAmmo\obj\Release\net48\InfiniteAmmo.csproj.AssemblyReference.cache
+f:\项目\EX\InfiniteAmmo\obj\Release\net48\InfiniteAmmo.GeneratedMSBuildEditorConfig.editorconfig
+f:\项目\EX\InfiniteAmmo\obj\Release\net48\InfiniteAmmo.AssemblyInfoInputs.cache
+f:\项目\EX\InfiniteAmmo\obj\Release\net48\InfiniteAmmo.AssemblyInfo.cs
+f:\项目\EX\InfiniteAmmo\obj\Release\net48\InfiniteAmmo.csproj.CoreCompileInputs.cache
+f:\项目\EX\InfiniteAmmo\obj\Release\net48\InfiniteAmmo.dll
+f:\项目\EX\InfiniteAmmo\obj\Release\net48\InfiniteAmmo.pdb
