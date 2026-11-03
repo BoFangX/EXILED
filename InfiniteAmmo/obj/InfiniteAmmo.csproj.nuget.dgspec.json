@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "f:\\项目\\EX\\InfiniteAmmo\\InfiniteAmmo.csproj": {}
+  },
+  "projects": {
+    "f:\\项目\\EX\\InfiniteAmmo\\InfiniteAmmo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "f:\\项目\\EX\\InfiniteAmmo\\InfiniteAmmo.csproj",
+        "projectName": "InfiniteAmmo",
+        "projectPath": "f:\\项目\\EX\\InfiniteAmmo\\InfiniteAmmo.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "f:\\项目\\EX\\InfiniteAmmo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "ExMod.Exiled": {
+              "target": "Package",
+              "version": "[9.15.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.425\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
